@@ -17,7 +17,7 @@ Welcome to the **Quant Guild Library** — a curated collection of Jupyter Noteb
 ### 📅 2026 Video Lectures (Newest First)
 
 **Latest:**
-- **89.** [Black-Scholes Implied Volatility in 3 Minutes](https://youtu.be/_HegtAmj8o4)
+- **89.** [Black-Scholes Implied Volatility in 3 Minutes](https://youtu.be/8CB22YhioRw)
 
 **Previous:**
 - **88.** [How a Quant Manages a Portfolio](https://youtu.be/JjbBAyu0DmI)
