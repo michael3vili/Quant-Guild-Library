@@ -17,6 +17,7 @@ Welcome to the **Quant Guild Library** — a curated collection of Jupyter Noteb
 ### 📅 2026 Video Lectures (Newest First)
 
 **Latest:**
+- **90.** [Quant Responds to and Corrects YouTube Comments](https://youtu.be/CFqo-BMtKgY)
 - **89.** [Black-Scholes Implied Volatility in 3 Minutes](https://youtu.be/8CB22YhioRw)
 
 **Previous:**
