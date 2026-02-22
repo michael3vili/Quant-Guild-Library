@@ -17,10 +17,20 @@ Welcome to the **Quant Guild Library** — a curated collection of Jupyter Noteb
 ### 📅 2026 Video Lectures (Newest First)
 
 **Latest:**
-- **82.** [Poisson Processes for Quant Finance](https://youtu.be/oug0vzbwISQ)
-- **81.** [Ergodicity for Quant Trading](https://youtu.be/I9LFtXPnAKw)
+- **92.** [Kalman Filters for Quant Finance](https://youtu.be/zVJY_oaVh-0)
+- **91.** [How Goldman Sachs Prices Variance Swaps](https://youtu.be/24-wC8RI7BA)
 
 **Previous:**
+- **90.** [Quant Responds to and Corrects YouTube Comments](https://youtu.be/CFqo-BMtKgY)
+- **89.** [Black-Scholes Implied Volatility in 3 Minutes](https://youtu.be/8CB22YhioRw)
+- **88.** [How a Quant Manages a Portfolio](https://youtu.be/JjbBAyu0DmI)
+- **87.** [How to Quant Trade in 3 Minutes](https://youtu.be/mZLNzqDZHbA)
+- **86.** [5 Projects that Made me a Quant](https://youtu.be/bTMSAEn0XW4)
+- **85.** [Quant Derives Volterra Process Discretization and Simulation](https://youtu.be/ifwhZDCjAgo)
+- **84.** [How to Build a Live Volatility Surface in Python (Interactive Brokers)](https://youtu.be/5JEeAsQqlro)
+- **83.** [Quant Explains Risk-Neutral Option Pricing](https://youtu.be/wYpg0TGxvgM)
+- **82.** [Poisson Processes for Quant Finance](https://youtu.be/oug0vzbwISQ)
+- **81.** [Why Most Traders Lose: Ergodicity for Quant Trading](https://youtu.be/dryV1qJYUw8)
 - **80.** [The 5 Papers that Built Modern Quant Finance](https://youtu.be/ZwS1gMGegrM)
 - **79.** [My Approach to Solving Quant Interview Questions (Optiver Example)](https://youtu.be/pyD-zXuP8Qo)
 - **78.** [Quant Explains Alpha in 3 Minutes](https://youtu.be/Ivz58kZLD2U)
