@@ -1,5 +1,14 @@
 This is going to be my learning of quant guild library
 
+**IMPORTANT**: To update the repo with new lessons without overwritting my own notes, do this:
+1) git remote add upstream https://github.com/romanmichaelpaolucci/Quant-Guild-Library.git
+- This is only needed to be done once, and i already did it so you can skip this step
+- to check if upstream exists: git remote -v    
+2) git fetch upstream 
+3) git merge upstream/main --no-commit --no-ff  
+4) git commit -m "Add new upstream files without overwriting local changes"      
+
+
 Lessons I want to learn:
 **1.** Inverse Transform Method for Generating Random Variables
 
@@ -10,6 +19,16 @@ Lessons I want to learn:
 
 
 **List of lessons:** (completed will be struck thru)
+- **92.** [Kalman Filters for Quant Finance](https://youtu.be/zVJY_oaVh-0)
+- **91.** [How Goldman Sachs Prices Variance Swaps](https://youtu.be/24-wC8RI7BA)
+- **90.** [Quant Responds to and Corrects YouTube Comments](https://youtu.be/CFqo-BMtKgY)
+- **89.** [Black-Scholes Implied Volatility in 3 Minutes](https://youtu.be/8CB22YhioRw)
+- **88.** [How a Quant Manages a Portfolio](https://youtu.be/JjbBAyu0DmI)
+- **87.** [How to Quant Trade in 3 Minutes](https://youtu.be/mZLNzqDZHbA)
+- **86.** [5 Projects that Made me a Quant](https://youtu.be/bTMSAEn0XW4)
+- **85.** [Quant Derives Volterra Process Discretization and Simulation](https://youtu.be/ifwhZDCjAgo)
+- **84.** [How to Build a Live Volatility Surface in Python (Interactive Brokers)](https://youtu.be/5JEeAsQqlro)
+- **83.** [Quant Explains Risk-Neutral Option Pricing](https://youtu.be/wYpg0TGxvgM)
 - **82.** [Poisson Processes for Quant Finance](https://youtu.be/oug0vzbwISQ)
 - **81.** [Ergodicity for Quant Trading](https://youtu.be/I9LFtXPnAKw)
 - **80.** [The 5 Papers that Built Modern Quant Finance](https://youtu.be/ZwS1gMGegrM)
