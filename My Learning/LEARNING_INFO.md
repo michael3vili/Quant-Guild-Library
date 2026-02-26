@@ -10,8 +10,20 @@ This is going to be my learning of quant guild library
 
 
 Lessons I want to learn:
-**1.** Inverse Transform Method for Generating Random Variables
-
+~~**1.** Inverse Transform Method for Generating Random Variables~~
+- **25.** [How to Simulate Fractional Brownian Motion (fbM) via Davies-Harte](https://youtu.be/qQYgbIYz9i0) 
+- **33.** [Why Monte Carlo Simulation Works](https://youtu.be/-4sf43SLL3A)
+- **36.** [How to Trade with the Kelly Criterion](https://youtu.be/7tvW3NvRnPk)
+- **44.** [Time Series Analysis for Quant Finance](https://youtu.be/JwqjuUnR8OY)
+- **49.** [Markov Chains for Quant Finance](https://youtu.be/k8oQfd6M5sA)
+- **51.** [Hidden Markov Models for Quant Finance](https://youtu.be/Bru4Mkr601Q)
+- **58.** [Why Quant Models Break](https://youtu.be/brdG1TmsPlw)
+- **59.** [Brownian Motion for Quant Finance](https://youtu.be/jiAdz9W4aDI)
+- **61.** [Central Limit Theorem for Quant Finance](https://youtu.be/q2era-4pnic)
+- **71.** [Why Your Backtests are Wrong | Markov Property for Quant Trading](https://youtu.be/w-EbZ6Xct_E)
+- **72.** [How to Build a Markov Chain Regime Switching Bot in Python with Interactive Brokers | Part 1](https://youtu.be/mais1dsB_1g)
+- **77.** [Profitable vs Tradable: Why Most Strategies Fail Live](https://youtu.be/fzz22JNg9HE)
+- **92.** [Kalman Filters for Quant Finance](https://youtu.be/zVJY_oaVh-0)
 
 
 
